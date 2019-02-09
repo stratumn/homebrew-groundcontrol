@@ -1,9 +1,9 @@
 class Groundcontrol < Formula
   desc ""
   homepage ""
-  url "https://github.com/stratumn/groundcontrol/releases/download/v0.2.4/groundcontrol_0.2.4_Darwin_x86_64.tar.gz"
-  version "0.2.4"
-  sha256 "c2233aac68fd343e345557fcde05c653f87edf5e17d88cabd67b8f2042b3ca58"
+  url "https://github.com/stratumn/groundcontrol/releases/download/v0.3.0/groundcontrol_0.3.0_Darwin_x86_64.tar.gz"
+  version "0.3.0"
+  sha256 "818563f00d9b347a108772346d9eb607a14610bc920032de0fcbad8bb9a2a437"
 
   def install
     bin.install "groundcontrol"
